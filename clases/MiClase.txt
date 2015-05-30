@@ -1,5 +1,9 @@
 public class MiClase{
 //Esta es una clase de prueba.
 Actualizado desde la web 1
+<<<<<<< HEAD
 Actualizado desde laptop MOVIL
+=======
+Actualizado desde la web 2
+>>>>>>> 93d19d2f30c0e4e7562686736abcc71f4579f2b6
 }
