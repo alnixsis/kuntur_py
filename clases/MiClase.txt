@@ -1,0 +1,3 @@
+public class MiClase{
+//Esta es una clase de prueba.
+}
